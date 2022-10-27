@@ -1,0 +1,22 @@
+{
+  "name": "TestKit",
+  "version": "0.1.0",
+  "summary": "A short description of TestKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/theLizhao/TestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "theLizhao": "theLizhao@163.com"
+  },
+  "source": {
+    "git": "https://github.com/theLizhao/TestKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestKit/Classes/**/*"
+}
